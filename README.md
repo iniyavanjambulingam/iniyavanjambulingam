@@ -35,7 +35,7 @@ Welcome to my GitHub! I’m a hands-on network engineer who loves exploring ever
 ---
 
 ## 📫 Connect With Me
-- 🌐 [My Interactive 3D Portfolio](#) (coming soon!)
+- 🌐 [[My Interactive 3D Portfolio]](https://iniyavan.site/)(#)
 - 💬 Ask me about: networking, Linux, automation, home servers, and Android tweaks
 - 🧠 Motto: *Learn. Build. Break. Repeat.*
 
